@@ -109,8 +109,6 @@ nav ul li a{
     }
 }
 
-/*--feature--*/
-
 #feature{
     width: 100%;
     padding: 70px 0;
@@ -202,8 +200,6 @@ nav ul li a{
     }
 }
 
-/* service */
-
 #services{
     width: 100%;
     padding: 70px 0;
@@ -281,7 +277,6 @@ hr{
     }
 }
 
-/* ---Testimonial--- */
 
 #testimonial{
     width: 100%;
@@ -334,7 +329,6 @@ hr{
     }
 }
 
-/* ---Where--- */
 
 #Where{
     padding: 100px 0 20px;
