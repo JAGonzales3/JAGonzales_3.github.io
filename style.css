@@ -10,13 +10,16 @@
     left: 10%;
     z-index: 1;
 }
+
 #banner{
     background: linear-gradient(rgba(0,0,0,0.5),lightblue), url(pht/4k.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
-
+::selection{
+    background-color: lightblue;
+}
 .banner-text{
     text-align: center;
     color: white;
